@@ -1,1 +1,1 @@
-netflix.com,hulu.com,adjaranet.com
+netflix.com,hulu.com
