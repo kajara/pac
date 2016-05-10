@@ -1,1 +1,1 @@
-netflix.com,hulu.com,metacritic.com
+adjaranet.com, adjarabet.com
