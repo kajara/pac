@@ -1,1 +1,1 @@
-adjaranet.com,adjarabet.com
+adjaranet.com
