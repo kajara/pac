@@ -1,1 +1,1 @@
-adjaranet.com
+adjaranet.com, adjara.com
